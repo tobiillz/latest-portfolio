@@ -1,9 +1,18 @@
 {
     "education":[
         {
-            "title": "Mar 2013 - Dec 2017",
-            "cardTitle": "Electronic and Computer Engineering",
+            "title": "September 2012 - Dec 2017",
+            "cardTitle": "Electronic and Computer Engineering (Bsc)",
             "cardSubtitle":"Lagos State University",
+            "cardDetailedText": "CGPA - 4.49",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "September 2024 - Dec 2025",
+            "cardTitle": "Computer Science (Msc)",
+            "cardSubtitle":"Taxas",
             "cardDetailedText": "CGPA - 4.49",
             "icon" : {
                 "src": "images/education/lorem-ipsum.png"
